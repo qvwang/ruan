@@ -1,0 +1,82 @@
+.user-login {
+  height: 400px;
+  border: 2px solid rgb(162, 181, 210);
+  border-radius: 20px;
+  background-color: #fff;
+  margin: 0 100px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px;
+
+  .title {
+    text-align: center;
+    padding: 20px 0;
+  }
+
+  .user-input {
+    width: 200px;
+    height: 30px;
+    display: flex;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+  .user-code {
+    width: 100px;
+    height: 30px;
+    display: flex;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+
+  .user-code-btn {
+    margin-left: 10px;
+  }
+
+  .flex-center-user {
+    width: 200px;
+    display: flex;
+  }
+
+  .flex1 {
+    width: 200px;
+    display: flex;
+    padding-top: 20px;
+    justify-content: space-between;
+  }
+
+  .login-btn {
+    width: 80px;
+    height: 30px;
+    border: none;
+    font-weight: bold;
+    background-color: blueviolet;
+    border-radius: 10px;
+  }
+
+  .flex2 {
+    display: flex;
+    align-items: center;
+  }
+
+  .flex2 p {
+    padding-left: 5px;
+  }
+
+  .flex3 {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0;
+    padding: 0 20px;
+  }
+
+  .wx-icon {
+    width: 30px;
+    height: 30px;
+  }
+
+}

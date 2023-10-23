@@ -1,0 +1,10 @@
+.user-bg {
+}
+.login-img {
+  width: 600px;
+  height: 600px;
+}
+
+.user-bg > .title {
+  color: greenyellow;
+}
